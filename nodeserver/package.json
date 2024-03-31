@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Node server for our chat interface",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Advik",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
